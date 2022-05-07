@@ -9,7 +9,7 @@
       <polygon stroke="none" stroke-width="0" fill="#0b3765" points="0,0.6 0,1 10,1 10,0" />
     </svg>
 
-    <site-footer />
+    
   </main>
 </template>
 
