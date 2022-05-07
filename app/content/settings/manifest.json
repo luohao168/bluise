@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "资源库",
+  "shortName": "网络创业知识库，资源库。",
+  "description": "每天进步一点点。",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
